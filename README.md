@@ -10,3 +10,11 @@ O dataset contém uma coleção abrangente de **15.000 imagens** de alta qualida
 
 ## Desenvolvedores
  - [Nicole Souza](https://github.com/nicolesouzab)
+  -João Pedro Martins
+  -Moema Rocha
+  -Gustavo Nunes
+  -Caio Lima
+  -Carla Adriana
+  -Giovanna Gurgel
+  -Anderson Ricardo
+  -Fernando Torres
