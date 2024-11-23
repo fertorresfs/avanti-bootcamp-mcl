@@ -17,4 +17,4 @@ O dataset contém uma coleção abrangente de **15.000 imagens** de alta qualida
  - Carla Adriana
  - Giovanna Gurgel
  - Anderson Ricardo
- - Fernando Torres
+ - [Fernando Torres](https://github.com/fertorresfs)
